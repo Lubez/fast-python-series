@@ -11,3 +11,6 @@ This folder contains the code for the Fast Python Series. I will continue to upd
 2. [Variables](https://youtu.be/Gsm46JTaCWk) - 12 min.
 	* Goes over variables at a high level
 	* Will go deeper into each kind of variable in later videos
+3. [Strings](https://youtu.be/uOS6AXIznaY) - 6 min.
+	* Covers Strings within Python
+	* Talks about printing, formatting, comparison, and iteration
