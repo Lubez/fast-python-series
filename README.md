@@ -7,6 +7,7 @@ Below is a full list of the videos and the strucutre of this repo.
 * [Python Series](./python_series/README.md)
 	* hello_vid.py
 	* vars_vid.py
+	* strings_video.py
 * [Loading Bar](./loadbar/README.md)
 	* loadbar.py
 * [Tree Graph](./tree/README.md)
