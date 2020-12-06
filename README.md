@@ -12,3 +12,5 @@ Below is a full list of the videos and the strucutre of this repo.
 	* loadbar.py
 * [Tree Graph](./tree/README.md)
 	* binary.py
+* [Scripting](./scripting/README.md)
+	* note_vid.py
