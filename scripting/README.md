@@ -5,3 +5,4 @@ This folder contains the different scripting projects that I have created for a 
 
 ### Videos
 * [Note Terminal Command](https://youtu.be/DPgyi9MVMik)
+* [Send Texts from Terminal](https://youtu.be/QLjEUJOe66Y)

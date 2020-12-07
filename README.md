@@ -14,3 +14,4 @@ Below is a full list of the videos and the strucutre of this repo.
 	* binary.py
 * [Scripting](./scripting/README.md)
 	* note_vid.py
+	* texter_vid.py
